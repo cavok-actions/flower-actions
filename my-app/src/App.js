@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Flower Flower Flower
+          ✨Flower✨
         </a>
       </header>
     </div>
